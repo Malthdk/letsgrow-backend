@@ -11,6 +11,6 @@ export default ({ env }) => ({
                 },
             },
         },
-    }
-  });
-  
+    },
+    ckeditor: true
+});

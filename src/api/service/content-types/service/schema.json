@@ -1,0 +1,79 @@
+{
+  "kind": "singleType",
+  "collectionName": "services",
+  "info": {
+    "singularName": "service",
+    "pluralName": "services",
+    "displayName": "Service"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "service_1": {
+      "type": "string"
+    },
+    "service_1_image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "service_2": {
+      "type": "string"
+    },
+    "service_2_image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "service_3": {
+      "type": "string"
+    },
+    "service_3_image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "service_4": {
+      "type": "string"
+    },
+    "service_4_image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "service_1_link": {
+      "type": "string"
+    },
+    "service_2_link": {
+      "type": "string"
+    },
+    "service_3_link": {
+      "type": "string"
+    },
+    "service_4_link": {
+      "type": "string"
+    }
+  }
+}

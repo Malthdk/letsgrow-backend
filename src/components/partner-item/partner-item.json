@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_partner_item_partner_items",
+  "info": {
+    "displayName": "partner_item",
+    "icon": "crosshairs",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "partner_link": {
+      "type": "string"
+    },
+    "partner_image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

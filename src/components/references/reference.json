@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_references_references",
+  "info": {
+    "displayName": "Reference",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "videoask": {
+      "type": "text"
+    }
+  }
+}

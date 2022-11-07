@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "partnerslists",
+  "info": {
+    "singularName": "partnerslist",
+    "pluralName": "partnerslists",
+    "displayName": "Partnerslist"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "partner": {
+      "type": "component",
+      "repeatable": true,
+      "component": "partner-item.partner-item"
+    }
+  }
+}

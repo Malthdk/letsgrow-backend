@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "profits",
+  "info": {
+    "singularName": "profit",
+    "pluralName": "profits",
+    "displayName": "Profit"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "meetings": {
+      "type": "string"
+    },
+    "convertions": {
+      "type": "string"
+    },
+    "leads": {
+      "type": "string"
+    },
+    "reply_rate": {
+      "type": "string"
+    }
+  }
+}
